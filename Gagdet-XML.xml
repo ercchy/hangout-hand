@@ -13,7 +13,7 @@
             <h1>Hangout Demo</h1>
             <div id="container"></div>
 
-            <script src="scripts/demo.js"></script>
+            <script src="https://raw.githubusercontent.com/ercchy/hangout-hand/master/js/demo.js"></script>
         ]]>
     </Content>
 </Module>
